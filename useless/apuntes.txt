@@ -1,0 +1,16 @@
+menu
+1.- Registrar usuario
+2.- Venta
+3.- Salir
+
+tablas faltantes:
+boleta
+- id_boleta
+- numero_boleta
+
+detalle_boleta
+- id_det_boleta
+- precio_total
+- iva
+- id_producto(descripcion)
+
